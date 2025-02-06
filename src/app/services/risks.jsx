@@ -17,7 +17,7 @@ const Risks = ({ data }) => {
                         </div>
                         <p>{data?.text}</p>
 
-                        <ButtonCommon txt="Free Consultation" />
+                        <ButtonCommon txt="No risks, just results!" />
                         <div className={styles.flexBtn}>
                             <div className={styles.telNumber}>
                                 <Link href="tel:+13022173745">+1 302 217 3745</Link>

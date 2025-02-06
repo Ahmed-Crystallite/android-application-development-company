@@ -36,7 +36,7 @@ const Offers = ({ bg, tabs, data }) => {
                             <div className={styles.tabContent}>
                                 <h4>{tabs[activeTab].content.heading}</h4>
                                 <p>{tabs[activeTab].content.description}</p>
-                                <ButtonCommon txt="Free Consultation" />
+                                <ButtonCommon txt="Consult for free!" />
                             </div>
                         </div>
                     </Col>

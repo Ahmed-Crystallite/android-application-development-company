@@ -77,7 +77,7 @@ const CaseStudySection = ({ data, caseStudies }) => {
                                             <div className={styles.blackBtn}>
                                                 <Image src={store} alt='Store' className='img-fluid' />
                                                 <div className={styles.linksBtn} onClick={() => handleChatOpen()}>
-                                                    Let’s Talk
+                                                Let’s Collaborate!
                                                 </div>
                                             </div>
                                         </div>

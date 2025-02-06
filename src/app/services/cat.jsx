@@ -19,7 +19,7 @@ const CtaEstimated = ({ data }) => {
                                     {data?.title}
                                 </div>
                                 <p>{data?.text}</p>
-                                <ButtonCommon txt="Free Consultation" />
+                                <ButtonCommon txt="Start Your Journey!" />
                             </div>
                             <div className={styles.ctaImg}>
                                 <Image src={data?.CtaEstimatedImg} alt="Bitswits Services" fill />
